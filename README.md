@@ -11,7 +11,7 @@ Below is a graphical illustration of the study design:
 ![Optional Text](https://github.com/Mawul4j/Clusted_Based_Affect_Prediction/blob/master/figures/design.jpg)
 
 Performance Based on Different Clustering Strategies as Compared to Generalized Model:
-
+https://github.com/Mawul4j/Clusted_Based_Affect_Prediction/blob/master/figures/results.jpg
 
 Empirical Analysis of the Robustness of the Group-Based Methods:
 
