@@ -15,4 +15,4 @@ Performance Based on Different Clustering Strategies as Compared to Generalized 
 
 Empirical Analysis of the Robustness of the Group-Based Methods:
 
-![Optional Text](https://github.com/Mawul4j/Clusted_Based_Affect_Prediction/blob/master/figures/results.jpg)
+![Optional Text](https://github.com/Mawul4j/Clusted_Based_Affect_Prediction/blob/master/figures/results_2.jpg)
