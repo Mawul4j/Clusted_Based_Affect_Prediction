@@ -8,7 +8,7 @@ Abstract:
 
 Below is a graphical illustration of the study design:
 
-
+![Optional Text](../figures/design.jpg)
 
 Performance Based on Different Clustering Strategies as Compared to Generalized Model:
 
